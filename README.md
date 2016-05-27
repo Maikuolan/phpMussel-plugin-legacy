@@ -12,7 +12,7 @@ Any phpMussel users that don't make calls to phpMussel v0 functions from within 
 
 The main repository: [phpMussel](https://github.com/Maikuolan/phpMussel).
 
-This repository: [phpMussel-plugin-legacy](https://github.com/Maikuolan/phpMussel-plugin-legacy).
+This repository: [phpMussel-plugin-legacy](https://github.com/phpMussel/phpMussel-plugin-legacy).
 
 ---
 
