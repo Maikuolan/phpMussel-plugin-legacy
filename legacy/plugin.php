@@ -5,12 +5,12 @@
  * PLUGIN INFORMATION BEGIN
  *         Plugin Name: Legacy.
  *       Plugin Author: Caleb M / Maikuolan.
- *      Plugin Version: 1.0.0
- *    Download Address: https://github.com/Maikuolan/phpMussel-plugin-legacy
- *     Min. Compatible: 1.0.0
+ *      Plugin Version: 1.0.1
+ *    Download Address: https://github.com/phpMussel/plugin-legacy
+ *     Min. Compatible: 1.0.0-DEV
  *     Max. Compatible: -
- *        Tested up to: 1.0.0
- *       Last Modified: 2016.03.27
+ *        Tested up to: 1.0.0-DEV
+ *       Last Modified: 2016.05.29
  * PLUGIN INFORMATION END
  *
  * This is a very simple plugin intended to serve as a bridge between the
